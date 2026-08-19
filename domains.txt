@@ -116,4 +116,12 @@
 0.0.0.0 finanzonline-ja-nein.at
 0.0.0.0 finanzonline-krypto-ja.at
 0.0.0.0 finanzonline-vermoegen-checkbox.cc
-
+0.0.0.0 manage.lnay.lqxk.mybluehost.me
+0.0.0.0 googleinfluencerhub.ct.ws
+0.0.0.0 czoin.dzdyf.es
+0.0.0.0 newspaceitenow.tech
+0.0.0.0 sign.account.srver.at.bel.0auth.165-154-199-230.cprapid.com
+0.0.0.0 my-php-app-production-7f57.up.railway.app
+0.0.0.0 log-in.billing-information.netflix-id.cc.valterjavaroni.com.br
+0.0.0.0 greatbtinternet.in
+0.0.0.0 influencerhub.ct.ws
